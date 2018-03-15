@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="friendly">friendly</string>
+    <string name="clever">clever</string>
+    <string name="brave">brave</string>
+    <string name="more_energy">more energy</string>
+    <string name="loyal">loyal</string>
+    <string name="awake">awake</string>
+    <string name="canny">canny</string>
+    <string name="curious">curious</string>
+</resources>
